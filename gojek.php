@@ -106,7 +106,7 @@ echo color("white"," AUTO CREATE ACCOUNT GOJEK & AUTO REDEEM VOUCHER \n");
         sleep(1);
         }
         sleep(3);
-        $goride1 = request('/go-promotions/v1/promotions/enrollments', $token, '{"promo_code":"GOFOOD022620A"}');
+        $goride1 = request('/go-promotions/v1/promotions/enrollments', $token, '{"promo_code":"GOFOODLAGI090320A"}');
         $message2 = fetch_value($goride1,'"message":"','"');
         echo "\n".color("green","(+) Message: ".$message2);
         sleep(3);
