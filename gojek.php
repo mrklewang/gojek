@@ -34,9 +34,10 @@ echo color("white"," AUTO CREATE ACCOUNT GOJEK & AUTO REDEEM VOUCHER \n");
         $register = request("/v5/customers", null, $data);
         if(strpos($register, '"otp_token"')){
         $otptoken = getStr('"otp_token":"','"',$register);
-        echo color("green","The OTP code has been sent")."\n";
+        echo color("green","Kode OTP sudah dikirim")."\n";
+                echo color("white","Jika OTP tidak masuk masuk, silahkan run ulang kembali")."\n";
         otp:
-        echo color("nevy","Input OTP : ");
+        echo color("nevy","Masukkan Kode OTP : ");
         $otp = trim(fgets(STDIN));
         $data1 = '{"client_name":"gojek:cons:android","data":{"otp":"' . $otp . '","otp_token":"' . $otptoken . '"},"client_secret":"83415d06-ec4e-11e6-a41b-6c40088ab51e"}';
         $verif = request("/v5/customers/phone/verify", null, $data1);
@@ -67,7 +68,7 @@ echo color("white"," AUTO CREATE ACCOUNT GOJEK & AUTO REDEEM VOUCHER \n");
         echo "\n".color("green","(+) Message: ".$message);
         goto goride;
         }else{
-        echo "\n".color("green","(+) Message: ".$message);
+        echo "\n".color("green","(+) Message: ".$messageboba10);
         echo "\n";
         echo "\n".color("yellow","Mencoba Claim Voucher Goride");
         echo "\n".color("yellow","Please wait");
