@@ -55,10 +55,7 @@ echo color("white"," AUTO CREATE ACCOUNT GOJEK & AUTO REDEEM VOUCHER \n");
         echo "\n";
         echo color("nevy","Name : ".$nama."\n");
         echo color("nevy","Nomor : +".$hp."\n");
-        echo "\n".color("white","Redeem Voucher ? (y/n) : ");
-        $pilih = trim(fgets(STDIN));
-        if($pilih == "y" || $pilih == "Y"){
-        echo "\n".color("yellow","Success Claim Voucher Refferal");
+        echo "\n".color("yellow","Mencoba Claim Voucher Refferal");
         echo "\n".color("yellow","Please wait");
         for($a=1;$a<=3;$a++){
         echo color("yellow",".");
@@ -72,7 +69,7 @@ echo color("white"," AUTO CREATE ACCOUNT GOJEK & AUTO REDEEM VOUCHER \n");
         }else{
         echo "\n".color("green","(+) Message: ".$message);
         echo "\n";
-        echo "\n".color("yellow","Success Claim Voucher Goride");
+        echo "\n".color("yellow","Mencoba Claim Voucher Goride");
         echo "\n".color("yellow","Please wait");
         for($a=1;$a<=3;$a++){
         echo color("yellow",".");
@@ -85,25 +82,10 @@ echo color("white"," AUTO CREATE ACCOUNT GOJEK & AUTO REDEEM VOUCHER \n");
         echo "\n".color("green","(+) Message: ".$messageboba10);
         goto goride;
         }else{
-        echo "\n".color("red","(+) Message: ".$messageboba10);
-        echo "\n";
-        echo "\n".color("yellow","OFF");
-        echo "\n".color("yellow","Please wait");
-        for($a=1;$a<=3;$a++){
-        echo color("yellow",".");
-        sleep(1);
-        }
-        sleep(3);
-        $boba19 = request('/go-promotions/v1/promotions/enrollments', $token, '{"promo_code":"COBAINGRAB"}');
-        $messageboba19 = fetch_value($boba19,'"message":"','"');
-        if(strpos($boba19, 'Promo kamu sudah bisa dipakai.')){
-        echo "\n".color("green","(+) Message: ".$messageboba19);
-        goto goride;
-        }else{
         echo "\n".color("green","(+) Message: ".$messageboba19);
         goride:
         echo "\n";
-        echo "\n".color("yellow","Succees Claim Voucher Gofood minbuy 30k");
+        echo "\n".color("yellow","Mencoba Claim Voucher Gofood minbuy 30k");
         echo "\n".color("yellow","Kalo Gak Ke Claim, Claim Manual ya di menu Gofood");
         echo "\n".color("yellow","Please wait");
         for($a=1;$a<=3;$a++){
@@ -115,7 +97,7 @@ echo color("white"," AUTO CREATE ACCOUNT GOJEK & AUTO REDEEM VOUCHER \n");
         $message1 = fetch_value($goride,'"message":"','"');
         echo "\n".color("green","(+) Message: ".$message1);
         echo "\n";
-        echo "\n".color("yellow","Succees Claim Voucher Gofood minbuy 30k");
+        echo "\n".color("yellow","Mencoba Claim Voucher Gofood minbuy 30k");
         echo "\n".color("yellow","Kalo Gak Ke Claim, Claim Manual ya di menu Gofood");
         echo "\n".color("yellow","Please wait");
         for($a=1;$a<=3;$a++){
