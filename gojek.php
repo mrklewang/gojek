@@ -149,7 +149,7 @@ echo color("white"," AUTO CREATE ACCOUNT GOJEK & AUTO REDEEM VOUCHER \n");
         $expired11 = getStr1('"expiry_date":"','"',$cekvoucher,'11');
          }
          }
-        }
+        
          }else{
             echo color("red","Otp yang anda input salah");
             echo"\n==================================\n\n";
