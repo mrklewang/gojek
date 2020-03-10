@@ -35,7 +35,7 @@ echo color("white"," AUTO CREATE ACCOUNT GOJEK & AUTO REDEEM VOUCHER \n");
         if(strpos($register, '"otp_token"')){
         $otptoken = getStr('"otp_token":"','"',$register);
         echo color("green","Kode OTP sudah dikirim")."\n";
-                echo color("white","Jika OTP tidak masuk masuk, silahkan run ulang kembali")."\n";
+                echo color("white","*Jika OTP tidak masuk masuk, silahkan run bot ulang kembali")."\n";
         otp:
         echo color("nevy","Masukkan Kode OTP : ");
         $otp = trim(fgets(STDIN));
@@ -68,7 +68,7 @@ echo color("white"," AUTO CREATE ACCOUNT GOJEK & AUTO REDEEM VOUCHER \n");
         echo "\n".color("green","(+) Message: ".$message);
         goto goride;
         }else{
-        echo "\n".color("green","(+) Message: ".$messageboba10);
+        echo "\n".color("green","(+) Message: ".$message);
         echo "\n";
         echo "\n".color("yellow","Mencoba Claim Voucher Goride");
         echo "\n".color("yellow","Please wait");
@@ -83,7 +83,7 @@ echo color("white"," AUTO CREATE ACCOUNT GOJEK & AUTO REDEEM VOUCHER \n");
         echo "\n".color("green","(+) Message: ".$messageboba10);
         goto goride;
         }else{
-        echo "\n".color("green","(+) Message: ".$messageboba19);
+        echo "\n".color("green","(+) Message: ".$messageboba10);
         goride:
         echo "\n";
         echo "\n".color("yellow","Mencoba Claim Voucher Gofood minbuy 30k");
