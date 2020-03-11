@@ -1,1 +1,98 @@
-<?php /*** PHP Encode v1.0 by zeura.com ***/ $XnNhAWEnhoiqwciqpoHH=file(__FILE__);eval(base64_decode("aWYoIWZ1bmN0aW9uX2V4aXN0cygiWWl1bklVWTc2YkJodWhOWUlPOCIpKXtmdW5jdGlvbiBZaXVuSVVZNzZiQmh1aE5ZSU84KCRnLCRiPTApeyRhPWltcGxvZGUoIlxuIiwkZyk7JGQ9YXJyYXkoNjU1LDIzNiw0MCk7aWYoJGI9PTApICRmPXN1YnN0cigkYSwkZFswXSwkZFsxXSk7ZWxzZWlmKCRiPT0xKSAkZj1zdWJzdHIoJGEsJGRbMF0rJGRbMV0sJGRbMl0pO2Vsc2UgJGY9dHJpbShzdWJzdHIoJGEsJGRbMF0rJGRbMV0rJGRbMl0pKTtyZXR1cm4oJGYpO319"));eval(base64_decode(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH)));eval(ZsldkfhGYU87iyihdfsow(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,2),YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,1)));__halt_compiler();aWYoIWZ1bmN0aW9uX2V4aXN0cygiWnNsZGtmaEdZVTg3aXlpaGRmc293Iikpe2Z1bmN0aW9uIFpzbGRrZmhHWVU4N2l5aWhkZnNvdygkYSwkaCl7aWYoJGg9PXNoYTEoJGEpKXtyZXR1cm4oZ3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoJGEpKSk7fWVsc2V7ZWNobygiRXJyb3I6IEZpbGUgTW9kaWZpZWQiKTt9fX0=59908d296f416fb42578987298e8d55b0cc72703lVdbc5tGFH52ZvIfKMME0SLETSDkOqliy2PNKLYrKWlSx6NZwwoRI6DL4tjJJL+9Z7lICCl2ogcDu9+57jnfHi+yyKVBHHEE/5fhlLaEjIQyJ9D4FkfcERdlIfv0EEWbrySotqSvz589f9bpCCuUXKnXsCq2LUXXjF6vK3Oaaim2YWuqKh6uUVoNZWt6hbLMnl5D6WuUadiOWaIc2+kZNZRRobRuT7WcAtVzDLVb12VWKFM1dV2rdFm9rlZDdSuUpVpGt/Le0e0t7621X4Zt6iXKsS1Nq6PstV+W0+taBcoyTEc3GYqr/0DEj2M/xCCSCxMUeS1V1qXrJhR+z58JS4w8TK6YCf4sTmmfQ0mg+PEnfMte3HjFHzZgb1NM2gMfRwCOb5eUJh1D0XRF20EOXBcnucokDFzESqPzKY2jJlA8jiMK+tqzhwTvwsUm/H17kCTvMEkB0ecMxbQVTdxvvD1GkZ8hH9QGXnt0suPj+3Yezzh2UZiD5vtBUQAlHXjg3a1j4q6nYjtRE17JE6xpmuw4jtSUg7ginLdEn7vFOGmjMLjD/G48zHwBg3MWN0p1XZcU0TKgHDXVru+Ypgk7PdvuibveVurakISMIPeBZUlldoMF12ItJ/UbQrDWz5uRLwsFR16wqCTyDt6RGWR0GZPgS+n6a4wIJmW7MzWVCsEFNDgSzoMooC2e1Uza73R2Sk1hhCGVDuQCKaZxAkTiytzx28n44nI2P70Yjy/+GV8cD2aji3OZoyTDT8lMp+P5u+FkdPrhcjicyNwChelaKI+QkRIL8DEtlxfT2eloOD6Zliz2lFkmsO1glZKfc/Ysl1efMjMZzt5OzmeTwfn0lEWnPSVwNhycMODPpO5sNrus8OXpVyICwWkSRymujhffYxeE1/vsoN3YW+/7mAbRIq5BWO5/W+OkDUcRTDMSFQdV5Q5eua8bSOkNKE+zm5SS1tofyJnctFhENDo/vSjDn09H/w4lqcaLwk3sPcBzn8Jf0/atTACjL1DHHnMPsxBbuZHt1Jex5juwBMKL6iZN0R2ILIIQR2gFbghuQZWQqTITAoOAjUWc4KgO5RFfGVgkGU1bORLWKx0fycdoA3HDOMUFRmo4AfpQqzybyqq73Orp/VW03JQRPMA0O2ho/CiIPiHmpQL8AfQbwDGmGdD+A6OBThB5cYTTAEXzHJQsE/5JA80WV39B4tE+W/5yoy1/TFZrCQHfN7pmWW11OtBZwPPNwiGRxypwu3YSgv35ClF3OUdh2BK/t17cwCx1yLWU319Jf96QzstyQfouysws/GFZbRYfW4NJ6WpF5+XQwGmmxF1vKnpdD+DElHUHkoUbGXoZauJAYCPdX/g+CXNfEVuH8QykD0oLm00QQhJMeI0yK9Rqa72y4En1dt9nQfDqg83PWnLjMAb/8we7yDy8QFlIeY4Nq/iebtd6YZwQ9HBcCuQfre2BSvQJfhCL96OXnKgdGqooNzAEeyWkwmg7GNCDI7GO0XcwDzgM489iDWPsYG7CDG/7Y+5gkowkIa7r6e5gInzXiMvawXxeBhTXfd4KXTpks2bjkPiPqmFcwZW/yexVcSLXCs9GAXYQSoFSV/yeMlxgVvV3COIE3qJEBvKDFkkpIrR8h+tW4vLyzFdZAQEwidMdAdYOB/kkUCKPjsopIZeviphnjhx8YxqBZ33KWBA0hQX1bikTwDhX3CaFyepSyS0XVv4otUg1f2stQ0mwekxMZjakJl0Dn7SEFU5T5PtBLK0pG7iGFXt9+qI4xD5BKyUmfucmppqm245j6obVHwyG5ntveBd+cL3bdyevTf9v7Y17gibT89H5WfolncadFMy/yQ3hV+4S0XngHYEK3XJM21SrMysN5w+F41+wgz3i4TVjeSu4bePu4eMXjAAUO2AV84M2rN03rBTz/0D3I7bJnIEZrxbYPbw+L6zl7L52YgvX5PF8sbxWi9Vv/wM=
+<?php
+function request($url, $token = null, $data = null, $pin = null, $otpsetpin = null, $uuid = null){
+$header[] = "Host: api.gojekapi.com";
+$header[] = "User-Agent: okhttp/3.10.0";
+$header[] = "Accept: application/json";
+$header[] = "Accept-Language: id-ID";
+$header[] = "Content-Type: application/json; charset=UTF-8";
+$header[] = "X-AppVersion: 3.46.1";
+$header[] = "X-UniqueId: ".time()."57".mt_rand(1000,9999);
+$header[] = "Connection: keep-alive";
+$header[] = "X-User-Locale: id_ID";
+$header[] = "X-Location: -6.220".mt_rand(100,999).",106.77".mt_rand(1000,9999);
+if ($pin):
+$header[] = "pin: $pin";
+    endif;
+if ($token):
+$header[] = "Authorization: Bearer $token";
+endif;
+if ($otpsetpin):
+$header[] = "otp: $otpsetpin";
+endif;
+if ($uuid):
+$header[] = "User-uuid: $uuid";
+endif;
+$c = curl_init("https://api.gojekapi.com".$url);
+    curl_setopt($c, CURLOPT_FOLLOWLOCATION, true);
+    curl_setopt($c, CURLOPT_SSL_VERIFYPEER, false);
+    if ($data):
+    curl_setopt($c, CURLOPT_POSTFIELDS, $data);
+    curl_setopt($c, CURLOPT_POST, true);
+    endif;
+    curl_setopt($c, CURLOPT_SSL_VERIFYHOST, 0);
+    curl_setopt($c, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($c, CURLOPT_HEADER, true);
+    curl_setopt($c, CURLOPT_HTTPHEADER, $header);
+    $response = curl_exec($c);
+    $httpcode = curl_getinfo($c);
+    if (!$httpcode)
+        return false;
+    else {
+        $header = substr($response, 0, curl_getinfo($c, CURLINFO_HEADER_SIZE));
+        $body   = substr($response, curl_getinfo($c, CURLINFO_HEADER_SIZE));
+    }
+    $json = json_decode($body, true);
+    return $body;
+}
+function save($filename, $content)
+{
+    $save = fopen($filename, "a");
+    fputs($save, "$content\r\n");
+    fclose($save);
+}
+function nama()
+    {
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, "http://ninjaname.horseridersupply.com/indonesian_name.php");
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+    $ex = curl_exec($ch);
+    // $rand = json_decode($rnd_get, true);
+    preg_match_all('~(&bull; (.*?)<br/>&bull; )~', $ex, $name);
+    return $name[2][mt_rand(0, 14) ];
+    }
+function getStr($a,$b,$c){
+	$a = @explode($a,$c)[1];
+	return @explode($b,$a)[0];
+}
+function getStr1($a,$b,$c,$d){
+        $a = @explode($a,$c)[$d];
+        return @explode($b,$a)[0];
+}
+
+function color($color = "default" , $text)
+    {
+        $arrayColor = array(
+            'grey'      => '1;30',
+            'red'       => '1;31',
+            'green'     => '1;32',
+            'yellow'    => '1;33',
+            'blue'      => '1;34',
+            'purple'    => '1;35',
+            'nevy'      => '1;36',
+            'white'     => '1;0',
+        );  
+        return "\033[".$arrayColor[$color]."m".$text."\033[0m";
+    }
+function fetch_value($str,$find_start,$find_end) {
+	$start = @strpos($str,$find_start);
+	if ($start === false) {
+		return "";
+	}
+	$length = strlen($find_start);
+	$end    = strpos(substr($str,$start +$length),$find_end);
+	return trim(substr($str,$start +$length,$end));
+}
+?>
