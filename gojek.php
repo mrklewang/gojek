@@ -71,6 +71,7 @@ echo color("white"," AUTO CREATE ACCOUNT GOJEK & AUTO REDEEM VOUCHER \n");
         echo "\n".color("green","(+) Message: ".$message);
         echo "\n";
         echo "\n".color("yellow","Mencoba Claim Voucher Goride");
+                 echo "\n".color("yellow","Kalo Gak Ke Claim, Claim Manual ya pake kode COBAGORIDEPAY");
         echo "\n".color("yellow","Please wait");
         for($a=1;$a<=3;$a++){
         echo color("yellow",".");
